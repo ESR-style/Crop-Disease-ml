@@ -60,3 +60,9 @@ The model can identify the following plant diseases:
 - Soybean: Healthy
 - Strawberry: Leaf scorch, Healthy
 - Tomato: Bacterial spot, Early blight, Late blight, Leaf Mold, Septoria leaf spot, Spider mites, Target Spot, Tomato Yellow Leaf Curl Virus, Tomato mosaic virus, Healthy
+
+# Training Process
+![alt text](/images/image.png)
+![alt text](/images/image2.png)
+![alt text](/images/image3.png)
+![alt text](/images/image4.png)
